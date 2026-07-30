@@ -1,0 +1,16 @@
+{
+  "name": "Кухня — неделя 3–9 августа",
+  "short_name": "Кухня",
+  "description": "Ревизия продуктов, меню на неделю, готовка и рецепты",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF0E7",
+  "theme_color": "#EEF0E7",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
